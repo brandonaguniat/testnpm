@@ -1,4 +1,14 @@
 {
 	"name": "@brandonag/text-to-lowercase",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"description": "Converts string to lowercase",
+	  "license": "MIT",
+	  "repository": "brandonaguniat/testnpm",
+	  "main": "index.js",
+	  "keywords": [
+	    "brandon",
+	    "toLowercase",
+	    "lowercase",
+	    "string"
+	  ]
 }
